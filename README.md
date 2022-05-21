@@ -1,5 +1,3 @@
-# milo dubois
-
 ## welcome
 
 Hi, thanks for dropping by! Keep reading to learn about me, my journey to learn web development skills, and follow my progress.
