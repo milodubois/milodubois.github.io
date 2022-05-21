@@ -1,39 +1,36 @@
-*Note: This is the default placeholder text that I have not yet changed* ~Milo
+# milo dubois
 
-## Welcome to GitHub Pages
+## welcome
 
-You can use the [editor on GitHub](https://github.com/milodubois/milodubois.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, thanks for dropping by! Keep reading to learn about me, my journey to learn web development skills, and follow my progress.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 👋 Hi, I’m @milodubois
+- 👀 I’m interested in meeting other developers and learning more about HTML, CSS, JavaScript, Java, Python, Ruby, and Ruby on Rails ...
 
-### Markdown
+## about Milo
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I just recently started to learn the foundations of web development by following lessons and tutorials from [The Odin Project](https://www.theodinproject.com) in May 2022. My objective is to learn enough skills to eventually become a skilled fullstack web developer.  So far, I have been having a blast!  
 
-```markdown
-Syntax highlighted code block
+I would like to connect with others, regardless to network, share tips, and encourage our mutual progress. If this sounds like a plan, please feel free to drop me a line.  
+~*Milo*
 
-# Header 1
-## Header 2
-### Header 3
+## about this repository
 
-- Bulleted
-- List
+I created this public repository to document my learning journey and to also showcase projects as I complete them. Currently, I've completed the "HTML Foundations" and "CSS Foundations" coursework and am working my way through adding to that knowledge. The first project I completed is called 'odin-recipes' and that repository is listed below in the next section. To view that project's GitHub page, visit [https://milodubois.github.io/odin-recipes](https://milodubois.github.io/odin-recipes).
 
-1. Numbered
-2. List
+## follow Milo's progress
 
-**Bold** and _Italic_ and `Code` text
+Follow my progress by checking out my other [GitHub](https://github.com/milodubois) repositories with lessons, exercises, and my personal notes including:
+* [odin-recipes](https://github.com/milodubois/odin-recipes) (this is my first Odin project started on 15 May, 2022)
+* *coming soon!*
 
-[Link](url) and ![Image](src)
-```
+## check out The Odin Project
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Visit The Odin Project on GitHub and also visit the project's website, [https://www.theodinproject.com](https://www.theodinproject.com).
 
-### Jekyll Themes
+## let's connect
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/milodubois/milodubois.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Shoot me an email or let's connect on GitHub!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Cheers!  
+*Milo*
