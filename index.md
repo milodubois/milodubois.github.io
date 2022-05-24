@@ -1,4 +1,8 @@
-# welcome
+---
+title: Milo Dubois
+---
+
+# Home
 
 👋 Hi, I'm [@milodubois](https://github.com/milodubois). Thanks for dropping by! Keep reading to learn about me, my journey to learn web development skills, and follow my progress.
 
