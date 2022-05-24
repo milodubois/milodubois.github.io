@@ -1,5 +1,8 @@
-theme: jekyll-theme-cayman
+theme: minima
 title: Milo Dubois
+author: Milo Dubois
 description: >
   Check back soon for updates on my web development learning journey and for project updates!
+
 github_username:  milodubois
+show_excerpts: true
