@@ -1,7 +1,8 @@
 theme: minima
 title: Milo Dubois
+subtitle: About Milo
 description: >
-  Milo's blog hosted by GitHub Pages!
+  Milo is a computational biologist, learning web development for fun.
 
 github_username:  milodubois
-show_excerpts: true
+show_excerpts: false
