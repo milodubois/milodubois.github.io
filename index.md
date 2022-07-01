@@ -3,11 +3,11 @@ layout: default
 title: About
 ---
 
->Hey there! Quick note: I'll be away working on a bioinformatics project for several weeks rather than pursuing what brought me to GitHub initially in May 2022, namely my quest to learn front-end web development. Thus, I won't be updating this often.
-
 # Welcome
 
 👋 Hi, I'm [@milodubois](https://github.com/milodubois). I'm a data scientist with specialization in computational and molecular biology, and fluency in Java, R, Python, and many other bioinformatics platforms and languages. However, I'm new to GitHub in the capacity of my new hobby, learning front-end web development, something I kind of neglected while being so focused on research in school and work.  
+
+>July 1, 2022-- Quick note: I'll be away working on a bioinformatics project for several weeks rather than pursuing what brought me to GitHub initially in May 2022, namely my quest to learn front-end web development. Thus, I won't be updating this often.
 
 ## What brought me to GitHub
 
