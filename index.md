@@ -3,9 +3,11 @@ layout: default
 title: About
 ---
 
+>Hey there! Quick note: I'll be away working on a bioinformatics project for several weeks rather than pursuing what brought me to GitHub initially in May 2022, namely my quest to learn front-end web development. Thus, I won't be updating this often.
+
 # Welcome
 
-👋 Hi, I'm [@milodubois](https://github.com/milodubois). I'm a data analyst with specialization in computational and molecular biology, and fluency in Java, R, Python, and many other bioinformatics platforms and languages. However, I'm new to GitHub (but not git, etc.), with most of my career collaborative work in non-public spaces. I'm also new to front-end web development, something I kind of neglected while being so focused on research in school and work.  
+👋 Hi, I'm [@milodubois](https://github.com/milodubois). I'm a data scientist with specialization in computational and molecular biology, and fluency in Java, R, Python, and many other bioinformatics platforms and languages. However, I'm new to GitHub in the capacity of my new hobby, learning front-end web development, something I kind of neglected while being so focused on research in school and work.  
 
 ## What brought me to GitHub
 
@@ -13,7 +15,7 @@ I thought it would be fun to learn additional skills including web development, 
 
 ## Career sketch and languages
 
-My career work focuses on bioinformatics projects and building solutions using Perl, Python, R, Java, Scala, C and C++. I'm also pretty fluent with shell scripting in Unix/Linux. Typical professional projects integrate knowledge of molecular biology with coding, aimed at target discovery and evaluation for biopharma applications. I'm not looking for work at the moment, as I have my hands full consulting as an external project manager on two data science projects at a start-up.
+My career work focuses on bioinformatics projects and building solutions using Perl, Python, R, Java, Scala, C and C++. Typical professional projects integrate knowledge of molecular biology with coding, aimed at target discovery and evaluation for biopharma applications. I'm not looking for work at the moment, as I have my hands full consulting as an external project manager on two data science projects at a start-up.
 
 ## Let's connect!
 
